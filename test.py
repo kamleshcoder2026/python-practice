@@ -6,6 +6,6 @@ else:
     print("odd") 
 fruits = ["apple", "banana", "cherry"]
 print(fruits[0])   
-
+# kamlesh code for python
 
 
